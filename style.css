@@ -1,0 +1,55 @@
+* {
+  font-family: 'Lora', serif;
+}
+
+.header {
+  color: white;
+  background-color: #0cc;
+  padding: 10px;
+  outline: black double 2px;
+}
+
+.header__title {
+  opacity: 0.8;
+  text-shadow: 2px 2px 0 gray;
+  font-family: 'Roboto', sans-serif;
+}
+
+.nav__item {
+  font-style: oblique;
+}
+
+.main {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  text-align: justify;
+}
+
+.main__title{
+  color: green;
+  text-shadow: 1px 1px 0 black;
+}
+
+.main__article{
+  background-color: lightgray;
+  margin-bottom: 10px;
+}
+
+.main__aside {
+  background-color: #079;
+  padding-bottom: 5px;
+  border: dotted 1px black;
+}
+
+.main__ads {
+  background-color: orange;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+}
+
+.footer {
+  background-color: orange;
+  /* padding-left: 10px; */
+  padding-bottom: 5px;
+}
